@@ -1,4 +1,7 @@
 # Multiview Compressive Coding for 3D Reconstruction
+
+## VC: Forked for research purposes
+
 [Chao-Yuan Wu](https://chaoyuan.org/), 
 [Justin Johnson](https://web.eecs.umich.edu/~justincj/),
 [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/),
